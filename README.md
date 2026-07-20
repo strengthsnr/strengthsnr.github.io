@@ -1,18 +1,19 @@
-# [Your Name] - Data Analysis Portfolio
+# Israel Oladeji - Data & Finance Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio Template
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+This portfolio reflects my ability to:
+
+- Decode complex business and financial data into strategic intelligence
+- Evaluate financial performance through rigorous analysis and KPI measurement
+- Design executive-ready dashboards that communicate with precision
+- Develop analytical solutions that strengthen forecasting, planning, and operational performance
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This template is set up to showcase your best work. You can easily customise the project cards in the `index.html` file.
 
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
